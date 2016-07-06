@@ -1,0 +1,669 @@
+{
+  "planSchedule": [
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "12.9 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "12.9 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "9.7 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "16.1 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "8.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "12.9 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "20.9 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "12.9 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "24.1 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "16.1 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "25.7 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "8.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "8.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "8.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "19.3 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "29.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "8.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "9.7 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "8.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "19.3 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "32.2 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "8.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "9.7 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "8.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "19.3 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "32.2 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "24.1 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "9.7 km ",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "8.0 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "6.4 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "4.8 km",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": ""
+    },
+    {
+      "distance": "3.2 km ",
+      "description": "Run",
+      "tips": ""
+    },
+    {
+      "distance": "42.2 km",
+      "description": "The RACE day!",
+      "tips": ""
+    }
+  ]
+}

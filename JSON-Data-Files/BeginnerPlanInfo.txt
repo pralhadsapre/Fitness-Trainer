@@ -1,0 +1,46 @@
+{
+  "planMetaData": {
+    "shortName": "New York Road Runners",
+    "longName": "New York City Marathon Official Program",
+    "Duration": "19 weeks",
+    "runsPerWeek": "4 to 6",
+    "weeklyKM": "27 to 62",
+    "longestRun": "32 km"
+  },
+  "planDetails": [
+    {
+      "heading": "This plan is right for you if...",
+      "data": "You are running your first marathon and have been running 15 miles a week for at least a month. The first long run is 8 miles."
+    },
+    {
+      "heading": "About the Coaches",
+      "data": "This training schedule was created for the New York Road Runners by Bob and Shelly Glover. Bob Glover is the founder and director of the NYRR Running Classes and a veteran of 35 marathons. Shelly Glover is an exercise physiologist and veteran marathoner."
+    },
+    {
+      "heading": "Philosophy",
+      "data": "You don't have to be a tremendous athlete to do a marathon, you just have to do the work."
+    },
+    {
+      "heading": "About the training",
+      "data": "First-time marathoners gradually build to a peak of 30 to 40 miles per week, hold it for at least 6 to 8 weeks, then taper over the last 2 to 3 weeks prior to race day."
+    }
+  ],
+  "planStrategies": [
+    {
+      "heading": "Long runs",
+      "data": "First-time and casual marathoners should gradually increase the length of long runs and complete at least three runs of 18 to 20 miles prior to the marathon. Do not attempt to run long every weekend. Plan your long runs well in advance so you can get them in every other weekend. Veteran marathoners should run long every other weekend, or two of every three weekends, in the last three months prior to the race. They should attempt to get in at least five or six runs of 20 to 23 miles. No marathon runner should attempt a long run that will take longer than four hours; the result would be severe fatigue and vulnerability to injury. The last long run should be two to three weeks prior to the marathon. Do not attempt to combine long runs and races on the same weekend."
+    },
+    {
+      "heading": "Speed work",
+      "data": "First-timers benefit from some speed work because it helps them improve running form and mental discipline. Ease into these workouts and complete only one a week unless you are monitored by a qualified coach. Sample workouts include: 4 to 6 repeats up a 200- to 400-yard hill at 5k to 10k race pace; 6 repeats of a half-mile at 5k to 10k race pace with a 3-minute recovery; 3 to 4 repeats of one mile at 5k to 10k race pace with a 4-minute recovery.\n\nExperienced marathoners need to improve their speed in order to be able to zip through a marathon at a pace that is faster than their normal daily training pace. They should start with one speed workout per week and, perhaps later, build to two."
+    },
+    {
+      "heading": "Races",
+      "data": "Use races to get in long training runs with split times, plenty of fluids and company along the way. Do not attempt to combine long runs and races on the same weekend unless you run the race at training pace as part of your long run. Ideally, you should race at least once a month, but no more than twice a month. If you race more you cannot properly recover. Do not race or do hard speed training for approximately two weeks after races of 10 miles and longer, or for approximately a week after shorter races. Your last hard, long race should be no later than three weeks prior to the marathon, and your last hard, short race no later than two weeks prior to the marathon."
+    },
+    {
+      "heading": "Crosstraining/Running Equivalents",
+      "data": "You can minimize the wear and tear on your body by replacing up to 25 percent of your mileage with biking, swimming, deep water running, elliptical training or other aerobic non-weight bearing exercises."
+    }
+  ]
+}

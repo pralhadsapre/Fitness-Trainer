@@ -1,0 +1,354 @@
+{
+  "planSchedule": [
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Week 1-6 is technique phase - mostly form interval runs. practice form focuses on rest days as well."
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Week 1-6 is technique phase - mostly form interval runs. Practice form focuses on rest days as well. Form focuses: point feet forward, feel your posture"
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: feel your posture, lift at the crown of your head"
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: feel your posture, lift at the crown of your head"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice good posture during the day, while walking"
+    },
+    {
+      "distance": "11.3 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focuses (alternate 10 min. ea.): feel your posture, lift at the crown of your head"
+    },
+    {
+      "distance": "35 min",
+      "description": "Fun Run",
+      "tips": "Have fun!"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Week 1-6 is technique phase - mostly form interval runs. practice form focuses on rest days as well."
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Week 1-6 is technique phase - mostly form interval runs. Practice form focuses on rest days as well. Form focuses: point feet forward, feel your posture"
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: feel your posture, lift at the crown of your head"
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: feel your posture, lift at the crown of your head"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice good posture during the day, while walking"
+    },
+    {
+      "distance": "11.3 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focuses (alternate 10 min. ea.): feel your posture, lift at the crown of your head"
+    },
+    {
+      "distance": "35 min",
+      "description": "Fun Run",
+      "tips": "Have fun!"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice body sensing at work"
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: lean slightly from your ankles, relax lower legs"
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: relax lower legs, land mid-foot"
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: lift at the crown of head, lean slightly from your ankles"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice chi walking"
+    },
+    {
+      "distance": "12.9 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focuses (alternate 10 min. ea.): lean slightly from your ankles, lift at the crown of your head, level your pelvis"
+    },
+    {
+      "distance": "35 min",
+      "description": "Fun Run",
+      "tips": "Have fun!"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice good posture during the day, while walking"
+    },
+    {
+      "distance": "45 min",
+      "description": "Time Trial + Form Intervals",
+      "tips": "Run a 1-mile time trial in 2nd gear. then, 35-45 mins. of form focuses: relax lower legs, land mid-foot"
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: lift your heels, bend your knees"
+    },
+    {
+      "distance": "45 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: point feet forward, lift your heels"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice chi walking"
+    },
+    {
+      "distance": "14.5 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focuses (alternate 10 min. ea.): lean slightly from your ankles, lift at the crown of your head, level your pelvis"
+    },
+    {
+      "distance": "35 min",
+      "description": "Fun Run",
+      "tips": "Fun run or core strengthening exercises"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice body sensing at work"
+    },
+    {
+      "distance": "50 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: bend arms to 90º, swing elbows rearward"
+    },
+    {
+      "distance": "60 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: mid-foot landing, no toe-off"
+    },
+    {
+      "distance": "50 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: swing legs rearward, swing arms rearward"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice chi walking"
+    },
+    {
+      "distance": "16.1 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focuses (alternate 10 min. ea.): feel your posture, lean from your ankles, elbows swing rearward, relax lower legs"
+    },
+    {
+      "distance": "35 min",
+      "description": "Fun Run",
+      "tips": "Fun run or core strengthening exercises"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice good posture during the day, while walking"
+    },
+    {
+      "distance": "50 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: (for 30 min.) lift your heels, lean from your ankles – then, (for the next 30 min.) spend one minute in each gear in the following order: 1-2-3-2-1-2-3-2-1, etc."
+    },
+    {
+      "distance": "60 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: lift at the crown of head, lean slightly from your ankles"
+    },
+    {
+      "distance": "50 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: (for 20 min.) feel your posture, lift your heels, relax your lower legs – then, (for the next 30 min.) randomly shift between gears 1, 2 and 3 spending 1 min. in each gear."
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice chi walking"
+    },
+    {
+      "distance": "17.7 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focuses pairs (alternate 10 min. ea.): level your pelvis/lift at the crown of your head; relax your lower legs, lean from your ankles"
+    },
+    {
+      "distance": "35 min",
+      "description": "Fun Run",
+      "tips": "Fun run + core strengthening exercises"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice good posture during the day, while walking"
+    },
+    {
+      "distance": "50 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: short stride, lean from your ankles"
+    },
+    {
+      "distance": "60 min",
+      "description": "Form Intervals",
+      "tips": "Steady cadence, first 30 mins - 2nd gear, last 15 mins - 3rd gear."
+    },
+    {
+      "distance": "50 min",
+      "description": "Form Intervals",
+      "tips": "Form focuses: (for 20 min.) feel your posture, lift your heels, relax your lower legs – then, (for the next 30 min.) randomly shift between gears 1, 2 and 3 spending 1 min. in each gear."
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Practice belly breathing all day"
+    },
+    {
+      "distance": "19.3 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focus pairs (alternate 10 min. ea.): feel your posture/bend your knees; lean from your ankles/elbows swing rearward"
+    },
+    {
+      "distance": "35 min",
+      "description": "Fun Run",
+      "tips": "Fun run + core strengthening exercises"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Week 7-13 is the conditioning phase where you'll build strength, endurance, and improve your cardio-aerobic conditioning. On rest days practice form focuses such as good posture."
+    },
+    {
+      "distance": "40 min",
+      "description": "Time Trial + Form Intervals",
+      "tips": "Week 7-13 is the conditioning phase where you'll build strength, endurance, and improve your cardio-aerobic conditioning. Do a time trial (in 2nd gear); then 30-min. Form intervals. Form focues: feel your posture/land in a midfoot strike"
+    },
+    {
+      "distance": "45 min",
+      "description": "Tempo Run",
+      "tips": "Steady cadence, first 30 mins - 2nd gear, last 15 mins - 3rd gear."
+    },
+    {
+      "distance": "40 min",
+      "description": "Form Intervals",
+      "tips": "Form focus pairs (alternate 5 min. ea.): lean from your ankles/lengthen your stride, lift your heels/lift at the crown of your head"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Rest"
+    },
+    {
+      "distance": "21.1 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focuses pairs (alternate 10 min. ea.): legs swing rearward/lead with your forehead; steady cadence/lift your heels. Practice hydration and electrolyte replacement cycles."
+    },
+    {
+      "distance": "35 min",
+      "description": "Fun Run",
+      "tips": "Fun run or cross-train"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Rest"
+    },
+    {
+      "distance": "4.0 km",
+      "description": "Form Intervals",
+      "tips": "With each interval, run 1st lap in 2nd gear, run 2nd lap in 3rd gear, rest 1/2 lap, repeat 5 times. form focus pairs: midfoot landing/steady cadence; lean from ankles/lengthen your stride rearwards"
+    },
+    {
+      "distance": "60 min",
+      "description": "Hill Run Or Surges",
+      "tips": "Hill run – form focus pairs: (uphill) shorten your stride/lift your heels; (downhill) level your pelvis/lengthen your stride rearwards. if you don't have hills, do surges – form focus pairs: lean from your ankles (to increase your speed)/lengthen your stride rearwards; decreaase your lean/shorten your stride."
+    },
+    {
+      "distance": "50 min",
+      "description": "Tempo Run",
+      "tips": "Form focus pairs (alternate 5 min. ea.): lift at the crown of your head/lift your heels; feel your posture/lean from your ankles. use your metronome. last 10 minutes in 3rd gear."
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Rest"
+    },
+    {
+      "distance": "22.5 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focus pairs (alternate 10 min. ea.): relax your lower legs/lean from your ankles; level your pelvis/lift at the crown of your head. hydrate every 10 minutes – electrolyte caps every hour."
+    },
+    {
+      "distance": "45 min",
+      "description": "Fun Run",
+      "tips": "Fun run + core strengthening exercises"
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Rest"
+    },
+    {
+      "distance": "3.2 km",
+      "description": "Form Intervals",
+      "tips": "With each 800m interval, run 1st lap in 2nd gear, run 2nd lap in 3rd gear, rest 1/2 lap, repeat 4 times. Form focus pair: lean from your ankles/lengthen at the crown of your head."
+    },
+    {
+      "distance": "50 min",
+      "description": "Easy Hill Run",
+      "tips": "Hill run – form focus pairs: (uphill) shorten your stride/lean from your ankles; (downhill) level your pelvis/lengthen your stride rearwards. if you don't have hills, do surges – form focus pairs: lean from your ankles (to increase your speed)/lengthen your stride rearwards; decreaase your lean/shorten your stride."
+    },
+    {
+      "distance": "50 min",
+      "description": "Tempo Run",
+      "tips": "Run 30 min. in 2nd gear. then, 20 min. in 3rd gear. form focus pairs (alternate 5 min. ea.): lift at the crown of your head/lift your heels; feel your posture/lean from your ankles. use your metronome."
+    },
+    {
+      "distance": "Rest",
+      "description": "Rest",
+      "tips": "Rest"
+    },
+    {
+      "distance": "24.1 km",
+      "description": "Long Slow Distance Run",
+      "tips": "Form focus pairs (alternate 10 min. ea.): shoulders forward/elbows back; midfoot landing/legs swing rearward"
+    },
+    {
+      "distance": "45 min",
+      "description": "Fun Run",
+      "tips": "Fun run or cross-train"
+    }
+  ]
+}
